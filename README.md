@@ -2,35 +2,6 @@
 
 Release this Chroma/RGB Cursor: https://www.youtube.com/watch?v=6c85IA_NJ40
 
-Original Features:
-- Minimal Wizard skills, custom animations! (SG, MS, LOV, Quagmire, Fire Wall)
-- Reduced SPP Heal Effect to 3px (doesn't help with the visual lag when SPP is spammed, in my experience, so I just minimized it instead of removing it completely)
-- Minimal Safety Wall effect with 3px height, effectively making it a 'ground' effect.
-- Increased Wall of Fog to 6px height for visibility.
-- Sanctuary ground effect is now black but meh.. who cares. At least you can see it still. It's not the same as Wall of Fog effect anyway.
-- Custom Pneuma animation with countdown and affected area, and the number is right on the tile where Pneuma was cast (center of 3x3 area)
-- Pneuma and Sanctuary "affected cells" have been minimized further from a shade to just an outline.
-- Most WOE buffs and priest buffs have a similar animation to Increase AGI, with the skill name/effect being shown)
-- Some WOE debuffs have a similar effect to Decrease AGI
-- Dispell and Lex Aeterna have a similar animation to Decrease AGI, but both have a "Target" animation so your guild knows who to focus fire on
-- Useful WOE materials (used for brewing and for repairing barricades/guardian stones) are made bigger so they are easier to loot
-- Yellow Spirit Spheres and Yellow "Fury/Critical Explosion Aura" because it looks good if your server has the Goku hair costume(also easier to see).
-- Transparent skill bar that works for both old and new clients
-- Some buffs have the buff name in the icon/timer below the minimap
-- /hlp says Buff instead of Help
-- Text-based Status Effects, including Chaos and Mute (that don't look ugly)
-- Smokie Falcons!
-- Neon Green Arrows for better Arrow Shower / Sharp Shooting visibility
-- Simplified Bolt Skills, reduced opacity and minimized effects
-- Transparent Ice Wall
-- Taekwon Love! Warm Wind skill effect shows the element, and the buff icon also shows the element.
-- Blue Tiled Maps (WOE Castles only) generated with GRF Editor, and edited WOE:SE castles to mark Flags, Spawn Points and Barricade Repair NPCs.
-
-    To warp around the map, click on the small Prontera Flags
-    To kill people warping from flags, target the tiny Clock Tower? Spawn Points
-    To repair barricades, click on the Eyeballs
-
-
 Text-based Buffs (CYAN) and Debuffs (RED)
 Buffs have same animation as Increase AGI, Debuffs have same animation as Decrease AGI
 
